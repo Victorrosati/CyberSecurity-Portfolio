@@ -1,17 +1,18 @@
-# 🛡️ Cybersecurity Portfolio - Victor Rosati
-Welcome to my technical portfolio. This repository contains detailed reports of penetration tests, security monitoring, and infrastructure hardening labs.
+# 🛡️ Cybersecurity Portfolio | Victor Rosati
+Welcome to my professional Cybersecurity portfolio. This repository contains a collection of 24 technical projects and reports developed during my training and laboratory simulations. 
 
-🎯 Profile Objective
-As an aspiring **Junior Purple Team Analyst**, I focus on bridging the gap between offensive techniques and defensive strategies. This portfolio demonstrates my hands-on experience in identifying vulnerabilities and implementing security controls.
+The focus ranges from **Offensive Security** (Vulnerability Assessment & Penetration Testing) to **Defensive Strategies** and **GRC/Social Engineering**.
 
-## 📂 Repository Structure
+## 🛠️ Skills & Tools
+* **Offensive:** Nmap, Metasploit, Burp Suite, SQL Injection, XSS, Buffer Overflow.
+* **Defensive:** Wireshark, Malware Analysis (Sandboxing), Event Monitoring.
+* **Infrastructure:** Windows Server, Active Directory (GPO), Cisco Networking (VLAN/Switching).
+* **Methodologies:** NIST Framework, OSSTMM, Social Engineering (Phishing).
 
-- **01-Offensive-Security:** BlackBox CTFs, Web Pentesting (SQLi, RCE), and Network Exploitation.
-- **02-Defensive-Analysis:** Malware fingerprinting, Windows Event ID monitoring, and Network Forensics.
-- **03-Infrastructure:** VLAN segmentation, Active Directory management, and System Hardening.
-- **04-GRC & Social Engineering:** Quantitative Risk Assessment (ALE/ARO) and Phishing simulations.
+## 📁 Repository Structure
+* **01-Offensive-Security:** Vulnerability assessments, Exploitation reports, and BlackBox challenges.
+* **02-Defensive-Security:** Traffic analysis, TCP/IP fundamentals, and malware investigation.
+* **03-Infrastructure-Hardening:** Network security and system administration.
+* **04-GRC-Social-Engineering:** Risk assessment and human-factor attack simulations.
 
-## 🛠️ Technical Skills & Tools
-- **Offensive:** Metasploit, Nmap, Burp Suite, Hydra, Kali Linux.
-- **Defensive:** Wireshark, PowerShell, FlareVM, Windows Event Viewer.
-- **Infrastructure:** Cisco Packet Tracer, VMware, Active Directory.
+---
